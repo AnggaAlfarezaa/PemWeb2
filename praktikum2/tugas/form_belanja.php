@@ -23,9 +23,9 @@
         }
 
         .harga-container {
-            position: absolute;
-            top: 20px;
-            right: 20px;
+        position: absolute;
+        top: 100px; /* Ubah nilai top sesuai dengan preferensi Anda */
+        right: 20px;
         }
     </style>
 </head>
